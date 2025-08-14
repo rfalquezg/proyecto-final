@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4409429285688928137
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 78010469342332185, guid: 2e6fbd876465cfa4d9c6c638ee66e3dc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 78010469342332185, guid: 2e6fbd876465cfa4d9c6c638ee66e3dc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 78010469342332185, guid: 2e6fbd876465cfa4d9c6c638ee66e3dc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 78010469342332185, guid: 2e6fbd876465cfa4d9c6c638ee66e3dc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 78010469342332185, guid: 2e6fbd876465cfa4d9c6c638ee66e3dc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 78010469342332185, guid: 2e6fbd876465cfa4d9c6c638ee66e3dc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 78010469342332185, guid: 2e6fbd876465cfa4d9c6c638ee66e3dc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 78010469342332185, guid: 2e6fbd876465cfa4d9c6c638ee66e3dc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 78010469342332185, guid: 2e6fbd876465cfa4d9c6c638ee66e3dc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 78010469342332185, guid: 2e6fbd876465cfa4d9c6c638ee66e3dc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1506170601534825307, guid: 2e6fbd876465cfa4d9c6c638ee66e3dc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -4378137519877790320, guid: 30c44d57382dd4045896882f5ba71ea4, type: 3}
+    - target: {fileID: 3680403851662401851, guid: 2e6fbd876465cfa4d9c6c638ee66e3dc, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 2d79e9945b1eb984ea40983df0b4c574, type: 2}
+    - target: {fileID: 5823612239599738945, guid: 2e6fbd876465cfa4d9c6c638ee66e3dc, type: 3}
+      propertyPath: m_Name
+      value: Koopa
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e6fbd876465cfa4d9c6c638ee66e3dc, type: 3}

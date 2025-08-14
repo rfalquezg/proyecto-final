@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4484620602774529457
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4999482746369262589, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+      propertyPath: m_Name
+      value: PiranhaPlant_UnderGround Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6688363039066469215, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6688363039066469215, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6688363039066469215, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6688363039066469215, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6688363039066469215, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6688363039066469215, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6688363039066469215, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6688363039066469215, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6688363039066469215, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6688363039066469215, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6779719639664590310, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1573562086, guid: a4c6025c65ce58c42b851895b1c41f39, type: 3}
+    - target: {fileID: 8806880493458945398, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+      propertyPath: m_Name
+      value: Plant_UnderGround
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 2547099427777145853, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8806880493458945398, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3332569204673920052}
+  m_SourcePrefab: {fileID: 100100000, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+--- !u!1 &4901255087083081927 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8806880493458945398, guid: ed281d3d9cca11e4da2af8a2cb098d34, type: 3}
+  m_PrefabInstance: {fileID: 4484620602774529457}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3332569204673920052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4901255087083081927}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68ef1f120c0535348ac3231f2993064c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 1573562086, guid: a4c6025c65ce58c42b851895b1c41f39, type: 3}
+  - {fileID: 7206802781508806304, guid: a4c6025c65ce58c42b851895b1c41f39, type: 3}
+  frameTime: 0.2
+  stop: 0
+  loop: 1
